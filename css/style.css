@@ -165,10 +165,10 @@ a:hover {
     #show-time {
         font-size: 30px !important;
     }
-	.content-experience, .content-education {
+    .content-experience, .content-education {
 		font-size: 12px !important;
 		width: 80% !important;
-	}
+    }
 }
 
 @media (max-width: 1200px) {
